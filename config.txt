@@ -1,0 +1,3 @@
+OUTPUT_DIR=G:\downloaded_vids
+YTDLP_PATH=G:\tools\youtube_downloader\yt-dlp.exe
+FFMPEG_PATH=G:\tools\ffmpeg\bin\ffmpeg.exe
